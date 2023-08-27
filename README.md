@@ -1,7 +1,7 @@
 # Tiago Souza
 Minha jornada envolve uma paixão por tecnologia. Passei pelos conceitos fundamentais de front-end usando HTML, CSS, JavaScript e Angular. Porém, meu foco atual está no desenvolvimento back-end com Java, já que meu objetivo final é me tornar um desenvolvedor full-stack no futuro.
 
-### Habilidades
+## Habilidades
 
 | linguagens de marcação e estilização |
 |-----------------------|
@@ -23,7 +23,7 @@ Minha jornada envolve uma paixão por tecnologia. Passei pelos conceitos fundame
 |[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)|
 
 
-### Links de comunicação
+## Links de comunicação
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail)](mailto:tiago0214@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn)](linkedin.com/in/tiago-souza-ba234b11a)
