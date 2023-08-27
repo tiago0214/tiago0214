@@ -23,11 +23,12 @@ Minha jornada envolve uma paixão por tecnologia. Passei pelos conceitos fundame
 |[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)|
 
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiago0214&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ### Links de comunicação
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail)](mailto:tiago0214@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn)](linkedin.com/in/tiago-souza-ba234b11a)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/tiago0214/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/@tiago0214/)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiago0214&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
