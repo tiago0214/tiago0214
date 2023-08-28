@@ -1,5 +1,5 @@
 # **Tiago Souza**
-Tenho conhecimento nos conceitos fundamentais de front-end usando HTML, CSS, JavaScript e Angular. Porém, meu foco atual está no desenvolvimento back-end com Java, já que meu objetivo final é me tornar um desenvolvedor full-stack no futuro.
+Tenho conhecimento dos conceitos fundamentais de front-end usando HTML, CSS, JavaScript e Angular. Porém, meu foco atual está no desenvolvimento back-end com Java. Sem esquecer é claro, de perquerir conhecimentos em frentes importantes de arquitetura, bancos de dados, computação em nuvem, princípios de DevOps e muito mais.
 
 ## *Habilidades*
 
