@@ -1,29 +1,23 @@
 # **Tiago Souza**
-Tenho conhecimento dos conceitos fundamentais de front-end usando HTML, CSS, JavaScript e Angular. Porém, meu foco atual está no desenvolvimento back-end com Java. Sem esquecer é claro, de perquerir conhecimentos em frentes importantes de arquitetura, bancos de dados, computação em nuvem, princípios de DevOps e muito mais.
+I've delved into fundamental front-end concepts using HTML, CSS, and JavaScript. However, my current focus is back-end development with the platform .NET. but I'm also studying concepts of architecture, databases, cloud computing, DevOps principles, and much more.
 
-## *Habilidades*
+## *Skills*
 
- linguagens de marcação e estilização:
+ Markup languages:
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
 
-linguagens programação 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=C%23)
 
 
-Bibliotecas e framework 
+![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge)
 
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-
-
- Ferramentas de versionamento  
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
-## *Links de comunicação*
+## *Communication*
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail)](mailto:tiago0214@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/tiago-souza-ba234b11a)
