@@ -4,13 +4,13 @@ I've delved into fundamental front-end concepts using HTML, CSS, and JavaScript.
 ## *Skills*
 
 
+![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=C%23)
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+
+
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=C%23)
-
-
-![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge)
 
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
