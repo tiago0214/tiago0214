@@ -1,5 +1,5 @@
 # **Tiago Souza**
-I've delved into fundamental front-end concepts using HTML, CSS, and JavaScript. However, my current focus is back-end development with the platform .NET. but I'm also studying concepts of architecture, databases, cloud computing, DevOps principles, and much more.
+As a software developer, I have already passed through fundamental front-end concepts using HTML, CSS, and JavaScript. However, my current focus is on back-end development with the platform .NET. but I'm also studying concepts of Linux OS, computer architectures, and internet protocols.
 
 ## *Skills*
 
