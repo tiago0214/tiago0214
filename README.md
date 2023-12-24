@@ -1,7 +1,7 @@
 # **Tiago Souza**
-As a software developer, I've already passed through fundamental front-end concepts using HTML, CSS, and JavaScript. However, my current focus is on back-end development with the .NET platform. but I'm also studying concepts of Linux OS, computer architectures, and internet protocols.
+Sou desenvolvedor fullstack com foco em linguagens e frameworks utilizadas no backend como o .NET e NodeJs. Tenho também experiencias no front-end utilizando HTML, CSS e Javascript, na criação de páginas responsivas para diferentes dispositivos. Possuo também conhecimentos em consumo de API's, como também, na implementação de algoritmos com foco na resolução de problemas.
 
-## *Skills*
+## *Conhecimento*
 
 
 ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=C%23)
@@ -17,7 +17,7 @@ As a software developer, I've already passed through fundamental front-end conce
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
-## *Communication*
+## *Comunicação*
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail)](mailto:tiago0214@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/tiago-souza-ba234b11a)
