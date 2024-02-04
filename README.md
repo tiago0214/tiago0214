@@ -1,7 +1,11 @@
 # **Tiago Souza**
-Olá, sou Tiago, e minha jornada acadêmica me levou de Bacharel em Direito pela Unibrasilia para a busca de conhecimento em Engenharia de Software na Uninter. Minha paixão por tecnologia se reflete em projetos educacionais para aplicar conhecimentos adquiridos em cursos.
-Possuo habilidades em .NET, C#, Javascript, HTML, CSS, GIT, GitHub, além de familiaridade com Docker, Azure e práticas ágeis como SCRUM. Minha proficiência em inglês e português, juntamente com meu conhecimento em microservices, me torna um candidato versátil. Comunicativo, colaborativo, solucionador de problemas, adaptável, pensamento crítico e gestão de tempo são atributos essenciais que trago para qualquer ambiente profissional.
-Atualmente, estou cursando Engenharia de Software na Uninter, complementando minha formação jurídica. Esta jornada educacional me proporcionou um conjunto diversificado de habilidades, me preparando para os desafios e oportunidades dentro da indústria de tecnologia.
+Olá, sou Tiago, e minha jornada acadêmica me levou de Bacharel em Direito para a Engenharia de Software. Resgatando a minha paixão pelo mundo da tecnologia.
+
+Possuo habilidades em linguagens como .NET, C#, Javascript, sem esquecer é claro de ferrametas para versionamento de código, GIT, GitHub, além de familiaridade com Docker, Azure e práticas ágeis como SCRUM. 
+
+Minha proficiência em inglês e português, juntamente com meu conhecimento em microservices, me torna um pessoa versátil. Comunicativo, colaborativo, solucionador de problemas, adaptável, pensamento crítico e gestão de tempo são atributos essenciais que trago para qualquer ambiente profissional.
+
+Atualmente, estou cursando Engenharia de Software na Uninter, complementando minha formação jurídica. Esta jornada educacional me proporcionou um conjunto diversificado de habilidades, me preparando para os desafios e oportunidades dentro do universo da tecnologia.
 
 
 ## *Conhecimento*
