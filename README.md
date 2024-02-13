@@ -1,5 +1,5 @@
 # **Tiago Souza**
-Olá, sou Tiago, e minha jornada acadêmica me levou de Bacharel em Direito para a Engenharia de Software. Resgatando a minha paixão pelo mundo da tecnologia.
+Olá, minha jornada acadêmica me levou de Bacharel em Direito para a Engenharia de Software. Resgatando a minha paixão pelo mundo da tecnologia.
 
 Possuo habilidades em linguagens como .NET, C#, Javascript, sem esquecer é claro de ferramentas para versionamento de código como GIT, GitHub, além de familiaridade com Docker, Azure e práticas ágeis como SCRUM. 
 
