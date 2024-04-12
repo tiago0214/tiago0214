@@ -11,7 +11,7 @@ Atualmente, estou cursando Engenharia de Software na Uninter, complementando min
 ## *Conhecimento*
 
 
-![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=C%23) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) ![nodeJS](https://img.shields.io/badge/nodeJS-000?style=for-the-badge&logo=Node)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) ![nodeJS](https://img.shields.io/badge/nodeJS-000?style=for-the-badge&logo=Node) ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=C%23)
 
 
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker) ![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=Azure) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
