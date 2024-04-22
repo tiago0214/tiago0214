@@ -8,7 +8,7 @@ With expertise extending beyond programming, I've dedicated significant time to 
 Currently, I am pursuing a degree in Software Engineering at Uninter, complementing my legal background. This educational journey has equipped me with a diverse set of skills, preparing me for the challenges and opportunities within the realm of technology.
 
 
-## *Conhecimento*
+## *Skills*
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) ![nodeJS](https://img.shields.io/badge/node.JS-000?style=for-the-badge&logo=node.js)
@@ -26,7 +26,7 @@ Currently, I am pursuing a degree in Software Engineering at Uninter, complement
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
-## *Comunicação*
+## *Contact-me*
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail)](mailto:tiago0214@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/tiago-souza-ba234b11a)
