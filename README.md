@@ -12,7 +12,8 @@ Currently, I am pursuing a degree in Software Engineering at Uninter, complement
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) ![nodeJS](https://img.shields.io/badge/node.JS-000?style=for-the-badge&logo=node.js)
- ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=C%23)
+ ![.NET](https://img.shields.io/badge/framework-000?style=for-the-badge&logo=.net
+) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=C%23)
 
 
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?style=for-the-badge&logo=google%20cloud
