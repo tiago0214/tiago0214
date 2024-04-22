@@ -1,4 +1,4 @@
-# **Tiago Souza**
+# **Tiago Souza Dias**
 Hi, I'm Tiago, and my academic journey has taken me from a Bachelor's degree in Law to Software Engineering, reigniting my passion for the world of technology.
 
 I'm a full-stack web developer with skills in back-end languages such as JavaScript/Node.js and C#, as well as HTML and CSS for front-end development. Additionally, I am proficient in code versioning tools like Git and GitHub and familiar with Docker.
