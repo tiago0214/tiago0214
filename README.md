@@ -1,11 +1,13 @@
 # **Tiago Souza Dias**
-Hi, I'm Tiago, and my academic journey has taken me from a Bachelor's degree in Law to Software Engineering, reigniting my passion for the world of technology.
+Greetings, I'm Tiago, and my academic journey has been a dynamic transition from a Bachelor's degree in Law to Software Engineering.
 
-I'm a full-stack web developer with skills in back-end languages such as JavaScript/Node.js and C#, as well as HTML and CSS for front-end development. Additionally, I am proficient in code versioning tools like Git and GitHub and familiar with Docker.
+As a versatile full-stack web developer, I specialize in both back-end technologies like JavaScript/Node.js and C#, and front-end development using HTML and CSS. Proficient in code versioning tools such as Git and GitHub, I also have experience with containerization using Docker.
 
-With expertise extending beyond programming, I've dedicated significant time to studying software architecture, Linux, cloud computing, and web protocols, recognizing that software encompasses more than just coding.
+In my projects, I employ PostgreSQL and MongoDB databases for efficient data persistence.
 
-Currently, I am pursuing a degree in Software Engineering at Uninter, complementing my legal background. This educational journey has equipped me with a diverse set of skills, preparing me for the challenges and opportunities within the realm of technology.
+In addition, I have immersed myself in various facets of software engineering, including software architecture, Linux administration, cloud computing, and web protocols. Understanding that software development extends far beyond mere coding, I have also familiarized myself with design patterns, recognizing the multidimensional nature of crafting robust and scalable software solutions. 
+
+Currently, I am pursuing a degree in Software Engineering at Uninter, complementing my legal background. This educational journey has equipped me with a diverse set of skills, preparing me for the challenges and opportunities.
 
 
 ## *Skills*
