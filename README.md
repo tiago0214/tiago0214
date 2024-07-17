@@ -5,7 +5,7 @@ With a focus on web development, I work as a full-stack developer and specialize
 
 Proficient in code versioning tools such as Git and GitHub, I also have experience with containerization using Docker.
 
-In my projects, I employ PostgreSQL and MongoDB databases for efficient data persistence.
+In my projects, I employ PostgreSQL and MongoDB databases for data persistence.
 
 In addition, I have immersed myself in various facets of software engineering, including software architecture, Linux administration, cloud computing, and web protocols.
 
