@@ -1,7 +1,7 @@
 # **Tiago Souza Dias**
 Greetings, I'm Tiago, and my academic journey has been a dynamic transition from a Bachelor's degree in Law to Software Engineering.
 
-With a focus on web development, I work as a full-stack developer and specialize in backend languages such as JavaScript/Node.js and C#, as well as frontend development using HTML and CSS.
+With a focus on web development, I work as a full-stack developer and specialize in backend languages such as JavaScript/TypeScript, Node.js, as well as frontend development using React.
 
 Proficient in code versioning tools such as Git and GitHub, I also have experience with containerization using Docker.
 
