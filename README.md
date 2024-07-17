@@ -21,7 +21,7 @@ Currently, I am pursuing a degree in Software Engineering at Uninter, complement
  ![TypeScript](https://img.shields.io/badge/framework-000?style=for-the-badge&logo=typescript)
 
 
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker) ![MongoDB](https://img.shields.io/badge/framework-000?style=for-the-badge&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker) ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
 
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
