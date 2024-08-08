@@ -9,10 +9,7 @@ In my projects, I employ PostgreSQL and MongoDB databases for data persistence.
 
 In addition, I have immersed myself in various facets of software engineering, including software architecture, Linux administration, cloud computing, and web protocols.
 
-Understanding that software development extends far beyond mere coding, I have also familiarized myself with design patterns, recognizing the multidimensional nature of developing a software solution. 
-
-Currently, I am pursuing a degree in Software Engineering at Uninter, complementing my legal background. This educational journey has equipped me with a diverse set of skills, preparing me for the challenges and opportunities.
-
+Currently, I am pursuing a degree in Software Engineering at Uninter, complementing my legal background.
 
 ## *Skills*
 
