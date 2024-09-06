@@ -1,15 +1,28 @@
 # **Tiago Souza Dias**
-Greetings, I'm Tiago, and my academic journey has been a dynamic transition from a Bachelor's degree in Law to Software Engineering.
+My journey began in Law, but each day I felt more drawn to the countless possibilities that surround the world of technology. I decided to take this leap and dedicate myself entirely to software development.
 
-With a focus on web development, I work as a full-stack developer and specialize in backend languages such as JavaScript/TypeScript, Node.js, as well as frontend development using React.
+Currently, I have been immersing myself in the world of programming, exploring everything from web development with JavaScript frameworks to desktop development with C#, as well as deeper concepts such as network protocols, operating systems, and computer architecture.
 
-Proficient in code versioning tools such as Git and GitHub, I also have experience with containerization using Docker.
+Hard skills:
 
-In my projects, I employ PostgreSQL and MongoDB databases for data persistence.
+- Backend
+・Languages: JavaScript | Node, TypeScript, C#
+・APIs: REST
+・SQL: MySql, Postgres
+・NoSql: MongoDB
+・ORM: Sequelize, Prisma
+・Architeture: Microservices
+・Frameworks: Fastify, Express
 
-In addition, I have immersed myself in various facets of software engineering, including software architecture, Linux administration, cloud computing, and web protocols.
+- Frontend
+・React
+・Tailwind
+・Styledcomponents
 
-Currently, I am pursuing a degree in Software Engineering at Uninter, complementing my legal background.
+- Devops
+・CI/CD: Github Actions
+・Cloud: GCP
+・Container: Docker
 
 ## *Skills*
 
