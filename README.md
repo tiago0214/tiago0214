@@ -12,17 +12,17 @@ Hard skills:
 ・NoSql: MongoDB \
 ・ORM: Sequelize, Prisma \
 ・Architeture: Microservices \
-・Frameworks: Fastify, Express \
+・Frameworks: Fastify, Express
 
-- Frontend
-・React
-・Tailwind
-・Styledcomponents
+- Frontend \
+・React \
+・Tailwind \
+・Styledcomponents 
 
-- Devops
-・CI/CD: Github Actions
-・Cloud: GCP
-・Container: Docker
+- Devops \
+・CI/CD: Github Actions \
+・Cloud: GCP \
+・Container: Docker \
 
 ## *Skills*
 
