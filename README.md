@@ -3,6 +3,8 @@ Hi there! My academic journey has been a dynamic transition from a Bachelor's de
 
 With a focus on web development, I work as a full-stack developer and specialize in backend languages such as JavaScript/TypeScript, Node.js, as well as frontend development using React.
 
+Currently, I am pursuing a degree in Software Engineering at Uninter, complementing my legal background.
+
 Hard skills:
 
 - Backend \
