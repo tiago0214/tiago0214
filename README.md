@@ -6,13 +6,13 @@ Currently, I have been immersing myself in the world of programming, exploring e
 Hard skills:
 
 - Backend \
-・Languages: JavaScript | Node, TypeScript, C#
-・APIs: REST
-・SQL: MySql, Postgres
-・NoSql: MongoDB
-・ORM: Sequelize, Prisma
-・Architeture: Microservices
-・Frameworks: Fastify, Express
+・Languages: JavaScript | Node, TypeScript, C# \
+・APIs: REST \
+・SQL: MySql, Postgres \
+・NoSql: MongoDB \
+・ORM: Sequelize, Prisma \
+・Architeture: Microservices \
+・Frameworks: Fastify, Express \
 
 - Frontend
 ・React
