@@ -22,7 +22,7 @@ Hard skills:
 - Devops \
 ・CI/CD: Github Actions \
 ・Cloud: GCP \
-・Container: Docker \
+・Container: Docker
 
 ## *Skills*
 
