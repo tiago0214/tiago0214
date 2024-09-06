@@ -1,7 +1,7 @@
 # **Tiago Souza Dias**
-My journey began in Law, but each day I felt more drawn to the countless possibilities that surround the world of technology. I decided to take this leap and dedicate myself entirely to software development.
+Greetings, I'm Tiago, and my academic journey has been a dynamic transition from a Bachelor's degree in Law to Software Engineering.
 
-Currently, I have been immersing myself in the world of programming, exploring everything from web development with JavaScript frameworks to desktop development with C#, as well as deeper concepts such as network protocols, operating systems, and computer architecture.
+With a focus on web development, I work as a full-stack developer and specialize in backend languages such as JavaScript/TypeScript, Node.js, as well as frontend development using React.
 
 Hard skills:
 
