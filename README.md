@@ -5,7 +5,7 @@ Currently, I have been immersing myself in the world of programming, exploring e
 
 Hard skills:
 
-- Backend /n
+- Backend \n
 ・Languages: JavaScript | Node, TypeScript, C#
 ・APIs: REST
 ・SQL: MySql, Postgres
