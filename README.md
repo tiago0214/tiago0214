@@ -24,8 +24,7 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 
 - Devops \
 ・CI/CD: Github Actions \
-・Cloud: GCP \
-・Container: Docker
+・Cloud: GCP
 
 
 ## *Contact-me*
