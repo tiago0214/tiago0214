@@ -1,7 +1,5 @@
 # **Tiago Souza Dias**
 
-Currently, I have been immersing myself in the world of programming, exploring everything from web development with JavaScript frameworks to desktop development with C#, as well as deeper concepts such as network protocols, operating systems, and computer architecture.
-
 I work as a full-stack developer, specializing in backend languages like TypeScript/Node.js and C#, as well as frontend development with React. I am also pursuing a degree in Software Engineering at Uninter.
 
 ## *Skills*
