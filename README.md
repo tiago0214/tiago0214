@@ -1,5 +1,4 @@
 # **Tiago Souza Dias**
-My journey began in Law, but each day I felt more drawn to the countless possibilities that surround the world of technology. I decided to take this leap and dedicate myself entirely to software development.
 
 Currently, I have been immersing myself in the world of programming, exploring everything from web development with JavaScript frameworks to desktop development with C#, as well as deeper concepts such as network protocols, operating systems, and computer architecture.
 
