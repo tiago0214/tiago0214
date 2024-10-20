@@ -9,7 +9,7 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 ・Languages: C#, TypeScript, JavaScript | Node   \
 ・Frameworks: .NET, Fastify, Express \
 ・APIs: REST \
-・SQL: MySql, Postgres \
+・SQL: SQLServer, Postgres \
 ・NoSql: MongoDB \
 ・ORM: Sequelize, Prisma \
 ・Architeture: Microservices
