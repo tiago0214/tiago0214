@@ -12,7 +12,6 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 ・SQL: SQLServer, MySQL, Postgres \
 ・NoSql: MongoDB \
 ・ORM: Sequelize, Prisma \
-・Architeture: Microservices
 
 
 - Frontend \
