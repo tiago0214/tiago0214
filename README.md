@@ -7,7 +7,7 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 
 - Backend \
 ・Languages: C#, TypeScript, JavaScript | Node   \
-・Frameworks: .NET, Fastify, Express \
+・Frameworks: .NET, ASP.NET, Fastify, Express \
 ・APIs: REST \
 ・SQL: SQLServer, MySQL, Postgres \
 ・NoSql: MongoDB \
