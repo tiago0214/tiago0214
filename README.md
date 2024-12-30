@@ -6,8 +6,8 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 
 
 - Backend \
-・Languages: C# | .NET, TypeScript, JavaScript | Node   \
-・Frameworks: ASP.NET, Fastify, Express \
+・Languages: TypeScript, JavaScript | Node, C#   \
+・Frameworks: Fastify, Express, ASP.NET \
 ・APIs: REST \
 ・SQL: SQLServer, MySQL, Postgres \
 ・NoSql: MongoDB \
@@ -20,8 +20,7 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 ・Styledcomponents 
 
 - Devops \
-・CI/CD: Github Actions \
-・Cloud: Azure
+・CI/CD: Github Actions
 
 
 ## *Contact-me*
