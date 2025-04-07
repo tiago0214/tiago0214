@@ -26,7 +26,7 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 ## *Contact-me*
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail)](mailto:tiago0214@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/tiago-souza-ba234b11a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/tiagodias-dev)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discordapp.com/users/327618059642732544)
 
 ### *GitHub Stats*
