@@ -5,13 +5,13 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 ## *Skills*
 
 
- - Front-end:
+ - Front-end:\
 • React, Next.js, JavaScript, TypeScript, HTML, CSS, CSS-in-JS, Tailwind CSS\
 • Material UI, Chakra UI, Ant Design, Shadcn UI, Bootstrap, Styled Components\
 • Context API, React Query, React Hook Form, zod\
 • SPA, Design System, Mobile First, Figma
 
- - Back-end 
+ - Back-end:\
 • TypeScript, JavaScript, NodeJS, C#\
 • Fastify, Express, .NET, ASP.NET, NestJS\
 • Docker, SQL, SQLServer, MySQL, Postgres, MongoDB\
