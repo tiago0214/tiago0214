@@ -5,22 +5,23 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 ## *Skills*
 
 
-- Backend \
-・Languages: TypeScript, JavaScript | Node, C#   \
-・Frameworks: Fastify, Express, ASP.NET, NestJS \
-・APIs: REST \
-・SQL: SQLServer, MySQL, Postgres \
-・NoSql: MongoDB \
-・ORM: Sequelize, Prisma, Entity 
+ - Front-end:
 
+• React, Next.js, JavaScript, TypeScript, HTML, CSS, CSS-in-JS, Tailwind CSS\
+• Material UI, Chakra UI, Ant Design, Shadcn UI, Bootstrap, Styled Components\
+• Context API, React Query, React Hook Form, zod\
+• SPA, Design System, Mobile First, Figma
 
-- Frontend \
-・React \
-・Tailwind \
-・Styledcomponents 
+ - Back-end 
 
-- Devops \
-・CI/CD: Github Actions
+• TypeScript, JavaScript, NodeJS, C#\
+• Fastify, Express, .NET, ASP.NET, NestJS\
+• Docker, SQL, SQLServer, MySQL, Postgres, MongoDB\
+• Sequelize, Knex, TypeORM, Prisma, Entity\
+• API Rest, Linux, SOLID, DDD\
+• CI/CD, Teste Unitários, Testes e2e, Jest, GitFlow\
+• AWS, GCP, SOLID, DDD\
+• Git, GitHub, GitHub Actions
 
 
 ## *Contact-me*
