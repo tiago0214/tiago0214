@@ -6,9 +6,8 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 
 
  - Front-end:\
-• React, Next.js, JavaScript, TypeScript, HTML, CSS, CSS-in-JS, Tailwind CSS\
-• Material UI, Chakra UI, Ant Design, Shadcn UI, Bootstrap, Styled Components\
-• Context API, React Query, React Hook Form, zod\
+• JavaScript, TypeScript, HTML, CSS\
+• Vue.js, React, Next.js, Tailwind CSS, Styled-Components\
 • SPA, Design System, Mobile First, Figma
 
  - Back-end:\
