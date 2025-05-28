@@ -16,7 +16,7 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 • Docker, SQL, SQLServer, MySQL, Postgres, MongoDB\
 • Sequelize, Knex, TypeORM, Prisma, Entity\
 • API Rest, Linux, SOLID, DDD\
-• CI/CD, Teste Unitários, Testes e2e, Jest, GitFlow\
+• CI/CD, Unity Test, e2e Test, Jest, GitFlow\
 • AWS, GCP, SOLID, DDD\
 • Git, GitHub, GitHub Actions
 
