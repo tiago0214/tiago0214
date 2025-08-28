@@ -1,6 +1,6 @@
 # **Tiago Souza Dias**
 
-I work as a full-stack developer, specializing in backend languages like TypeScript/Node.js and C#, as well as frontend development with React. I am also pursuing a degree in Information System.
+I work as a full-stack developer, specializing in backend languages like TypeScript/Node.js and C#, as well as frontend development with React/Vue.js. I am also pursuing a degree in Information System.
 
 ## *Skills*
 
