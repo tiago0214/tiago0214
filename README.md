@@ -27,5 +27,4 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/tiagodias-dev)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discordapp.com/users/327618059642732544)
 
-### *GitHub Stats*
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiago0214&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+
