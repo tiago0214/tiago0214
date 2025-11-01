@@ -13,8 +13,8 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
  - Back-end:\
 • TypeScript, JavaScript, NodeJS, C#\
 • Fastify, Express, .NET, ASP.NET, NestJS\
-• Docker, SQL, SQLServer, MySQL, Postgres, MongoDB\
-• Sequelize, Knex, TypeORM, Prisma, Entity\
+• Docker, SQL, SQLServer, MySQL, Postgres, MongoDB, Redis\
+• Sequelize, Knex, TypeORM, Prisma, Drizzle, Entity\
 • API Rest, Linux, SOLID, DDD\
 • CI/CD, Unity Test, e2e Test, Jest, GitFlow\
 • AWS, GCP, SOLID, DDD\
