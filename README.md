@@ -4,21 +4,20 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 
 ## *Skills*
 
-
- - Front-end:\
-• JavaScript, TypeScript, HTML, CSS\
-• Vue.js, React, Next.js, Tailwind CSS, Styled-Components\
-• SPA, Design System, Mobile First, Figma
-
  - Back-end:\
-• TypeScript, JavaScript, NodeJS, C#\
+• TypeScript, Python, JavaScript, NodeJS, C#\
 • Fastify, Express, .NET, ASP.NET, NestJS\
-• Docker, SQL, SQLServer, MySQL, Postgres, MongoDB, Redis\
+• Docker, SQL, SQLServer, MySQL, Postgres, MongoDB, ClickHouse Redis\
 • Sequelize, Knex, TypeORM, Prisma, Drizzle, Entity\
 • API Rest, Linux, SOLID, DDD\
 • CI/CD, Unity Test, e2e Test, Jest, GitFlow\
-• AWS, GCP, SOLID, DDD\
+• SOLID, DDD\
 • Git, GitHub, GitHub Actions
+
+- Front-end:\
+• JavaScript, TypeScript, HTML, CSS\
+• Vue.js, React, Next.js, Tailwind\
+• SPA, Design System, Mobile First, Figma
 
 
 ## *Contact-me*
