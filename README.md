@@ -6,7 +6,7 @@ I work as a full-stack developer, specializing in backend languages like TypeScr
 
  - Back-end:\
 • TypeScript, Python, JavaScript, NodeJS, C#\
-• Fastify, Express, .NET, ASP.NET, NestJS\
+• Fastify, Express, FastAPI .NET, ASP.NET, NestJS\
 • Docker, SQL, SQLServer, MySQL, Postgres, MongoDB, ClickHouse Redis\
 • Sequelize, Knex, TypeORM, Prisma, Drizzle, Entity\
 • API Rest, Linux, SOLID, DDD\
